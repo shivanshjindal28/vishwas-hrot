@@ -1,0 +1,4 @@
+cryptography>=42.0
+pytest>=8.0
+# optional, enables genuine ML-DSA (Dilithium) signatures instead of the
+# software stand-in:  pip install liboqs-python
